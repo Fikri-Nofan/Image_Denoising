@@ -58,7 +58,6 @@ Modifikasi yang telah dilakukan dalam notebook meliputi:
 
 ##  Referensi
 
-* Dokumentasi `scikit-image`: [https://scikit-image.org/docs/stable/](https://scikit-image.org/docs/stable/)
 * Tutorial Non-Local Means Denoising: [https://scikit-image.org/docs/stable/auto\_examples/filters/plot\_denoise.html](https://scikit-image.org/docs/stable/auto_examples/filters/plot_denoise.html)
 * GitHub repo asli: [Image-Denoising by WarriorRy](https://github.com/WarriorRy/Image-Denoising)
 
