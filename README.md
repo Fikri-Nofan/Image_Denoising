@@ -48,7 +48,7 @@ Modifikasi yang telah dilakukan dalam notebook meliputi:
 
 ### Gambar Asli (Noisy)
 
-![Original](noisy_example.jpg)
+![Original](gambar_asli.png)
 
 ### Gambar Setelah Denoising
 
