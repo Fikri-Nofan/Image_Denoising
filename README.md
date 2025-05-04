@@ -52,7 +52,7 @@ Modifikasi yang telah dilakukan dalam notebook meliputi:
 
 ### Gambar Setelah Denoising
 
-![Denoised](denoised_output.png)
+![Denoised](gambar_modifikasi.png)
 
 ---
 
